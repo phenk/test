@@ -1,5 +1,5 @@
 This document describes how to make a cup of coffee.
-i. Boil water
-ii. Grind the coffee.
-iii. Pour over.
-iv. Enjoy!
+1. Boil water
+2. Grind the coffee.
+3. Pour over.
+4. Enjoy!
