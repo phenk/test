@@ -2,7 +2,7 @@ This document describes how to make a cup of coffee with milk. And what to do ne
 1. Boil water
 2. Grind the coffee!
 3. Pour over.
-4. Add milk and sugar.
+4. Add milk but no sugar.
 5. Enjoy!
 6. Clean the cup! And this is it.
 
