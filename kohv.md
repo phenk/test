@@ -5,3 +5,5 @@ This document describes how to make a cup of coffee with milk. And what to do ne
 4. Add milk.
 5. Enjoy!
 6. Clean the cup! And this is it.
+
+After you have had the coffee, go and have some cake. 
